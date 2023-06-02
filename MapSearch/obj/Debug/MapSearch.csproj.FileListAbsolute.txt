@@ -1,0 +1,7 @@
+C:\Users\sania\RiderProjects\MapSearch\MapSearch\bin\Debug\MapSearch.exe
+C:\Users\sania\RiderProjects\MapSearch\MapSearch\bin\Debug\MapSearch.pdb
+C:\Users\sania\RiderProjects\MapSearch\MapSearch\obj\Debug\MapSearch.csproj.AssemblyReference.cache
+C:\Users\sania\RiderProjects\MapSearch\MapSearch\obj\Debug\MapSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\sania\RiderProjects\MapSearch\MapSearch\obj\Debug\MapSearch.csproj.CoreCompileInputs.cache
+C:\Users\sania\RiderProjects\MapSearch\MapSearch\obj\Debug\MapSearch.exe
+C:\Users\sania\RiderProjects\MapSearch\MapSearch\obj\Debug\MapSearch.pdb
